@@ -1,5 +1,4 @@
 # 
-In this lab I show proficiency in using SQL to search for data 
 
 <h1>SQL-Queries</h1>
 
@@ -11,7 +10,7 @@ In
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>______</b> 
+- <b>SQL</b> 
 - <b>______</b>
 
 
