@@ -17,7 +17,7 @@ In this lab I show how I created a SQL Query to filter the login attempts table 
 <h2>Languages and Utilities Used</h2>
 
 - <b>SQL</b> 
-- <b>______</b>
+
 
 
 <h2>Program walk-through:</h2>
