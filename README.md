@@ -24,7 +24,7 @@ In this lab I show how I created a SQL Query to filter the login attempts table 
 <h2>Program walk-through:</h2>
 
 <p align="center">
-Select all from table: <br/>
+Select all available tables using [*]: <br/>
 <a href="https://imgur.com/YTcJCG9"><img src="https://i.imgur.com/YTcJCG9.png" title="source: imgur.com" /></a><br />
 <br />
 Filter by login date:  <br/>
