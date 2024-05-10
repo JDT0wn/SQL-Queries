@@ -4,8 +4,7 @@
 
 
 <h2>Description</h2>
-In 
-<br />
+In this lab I show how I created a SQL Query to filter 
 
 
 <h2>Languages and Utilities Used</h2>
