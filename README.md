@@ -4,7 +4,14 @@
 
 
 <h2>Description</h2>
-In this lab I show how I created a SQL Query to filter 
+In this lab I show how I created a SQL Query to filter the log_in _attempts table for failed login attempts.  
+
+1.
+
+2.
+
+3.
+
 
 
 <h2>Languages and Utilities Used</h2>
