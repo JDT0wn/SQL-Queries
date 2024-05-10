@@ -8,7 +8,7 @@ In this lab I show how I created a SQL Query to filter the log_in _attempts tabl
 
 1. In the 1st query I used the [*] to return all data from the table so that i could make a decision on the easiest way to sort my information. 
 
-2.
+2. Afterwards I decide to sort the information by login date so that I have a clearer picture of the activity on a certain timeframe.
 
 3.
 
