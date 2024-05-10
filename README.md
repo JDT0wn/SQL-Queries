@@ -10,7 +10,7 @@ In this lab I show how I created a SQL Query to filter the log_in _attempts tabl
 
 2. Afterwards I decide to sort the information by login date so that I have a clearer picture of the activity on a certain timeframe.
 
-3.
+3. Next I order the info by login date, and login time so that my information is in chronological order, and i can view the failed login attempts and by which user. 
 
 
 
