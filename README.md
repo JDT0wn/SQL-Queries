@@ -6,7 +6,7 @@
 <h2>Description</h2>
 In this lab I show how I created a SQL Query to filter the log_in _attempts table for failed login attempts.  
 
-1.
+1. In the 1st query I used the * to return all data from the table so that i could make a decision on the easiest way to sort my information. 
 
 2.
 
