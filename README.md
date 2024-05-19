@@ -4,13 +4,13 @@
 
 
 <h2>Description</h2>
-In this lab I show how I created a SQL Query to filter the login attempts table for failed login attempts.  
+In this lab I show how I created a SQL Query to filter the login attempts table for failed login attempts that occured after hours.   
 
 1. In the 1st query I used the [*] to return all data from the table so that i could make a decision on the easiest way to sort my information. 
 
 2. Afterwards I decide to sort the information by login date so that I have a clearer picture of the activity on a certain timeframe.
 
-3. Next I order the info by login date, and login time so that my information is in chronological order, and i can view the failed login attempts and by which user. 
+3. Next I order the info by login date, and login time so that my information is in chronological order, and i can view the failed login attempts, which user attempted the login and the time of the attempted login. 
 
 
 
