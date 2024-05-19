@@ -37,7 +37,7 @@ Filter query by login date, time: <br/>
 <a href="https://imgur.com/bw8SPvw"><img src="https://i.imgur.com/bw8SPvw.png" title="source: imgur.com" /></a>
 <br />
 <br />
-Filter query by login date, time: <br/>
+Filter query by different login dates using OR operator: <br/>
 <a href="https://imgur.com/gqFrQJO"><img src="https://i.imgur.com/gqFrQJO.png" title="source: imgur.com" /></a>
 <br />
 
